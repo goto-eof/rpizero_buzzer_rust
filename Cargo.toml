@@ -1,0 +1,7 @@
+[package]
+name = "rpizero_buzzer_rust"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+rust_gpiozero = "0.2.1"
