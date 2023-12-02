@@ -1,3 +1,3 @@
-# Raspberry Pi Zero W | Buzzer
+# Raspberry Pi Zero W | Buzzer (Rust)
 
 Buzzer controller.
